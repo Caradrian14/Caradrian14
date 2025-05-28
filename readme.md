@@ -4,8 +4,8 @@ This repository serves as a comprehensive showcase of my technical skills and ex
 
 
 # Personal Information
-[Personal Portfolio](https://practical-poitras-103138.netlify.app)
-[Linkedin](https://www.linkedin.com/in/adri%C3%A0-jorda-6a78a915b/)
+- [Personal Portfolio](https://practical-poitras-103138.netlify.app)
+- [Linkedin](https://www.linkedin.com/in/adri%C3%A0-jorda-6a78a915b/)
 
 Hello! I am a self-taught programmer who lives and breathes technology. I am always up-to-date with the latest tools and emerging technologies to create functional solutions. My curiosity and problem-solving mindset drive me to tackle any challenge with enthusiasm, using new technologies to make my work more efficient and enjoyable.
 
