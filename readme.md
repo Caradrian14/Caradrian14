@@ -27,7 +27,7 @@ Hello! I am a self-taught programmer who lives and breathes technology. I am alw
 - [Lang Panel](https://github.com/Caradrian14/Lang-Panel--FP-Final-Project)
 
 # Laravel
-- [Todo](https://github.com/Caradrian14?tab=repositories#:~:text=Star-,todo%2Dlaravel,-Public)
+- [Todo](https://github.com/Caradrian14/todo-laravel)
 
 ## Python
 - [Test AI Course](https://github.com/Caradrian14/Pruebas_cursoAI)
@@ -38,4 +38,4 @@ Hello! I am a self-taught programmer who lives and breathes technology. I am alw
 ## Vue
 - [Todo List](https://github.com/Caradrian14/Vue-TodoList-Pinia-Router--E.Cliente-2023)
 - [Library](https://github.com/Caradrian14/GesBiblio-Vue-Project)
-- [Store Products](https://github.com/Caradrian14?tab=repositories#:~:text=daw%2Dvue%2Djs%2DstoreProducts)
+- [Store Products](https://github.com/Caradrian14/daw-vue-js-storeProducts)
