@@ -9,26 +9,29 @@ Hello! I am a self-taught programmer who lives and breathes technology. I am alw
 
 # Tech with Repositorioes
 
-## C#
-- [Cafe Mangment](https://github.com/Caradrian14/Cafe_Managment_Project)
+## Python
+- [Test AI Course](https://github.com/Caradrian14/Pruebas_cursoAI)
+- [My Personal Local Chatbot](Monika_chatbot_ollama-mistral )
+- [Job Application Webscrapper](https://github.com/Caradrian14/webscrapper_empresas)
 
 ## Java
 - [PacMan](https://github.com/Caradrian14/pacman_project)
-
-## Spring Boot
-- [Simple-Project](https://github.com/Caradrian14/demo-spring-boot)
+- [Java Spring Api](https://github.com/Caradrian14/java_spring_api_client)
 
 # TypeScript
 - [Hangman](https://github.com/Caradrian14/hangman-react-ts)
+
+## C#
+- [Cafe Mangment](https://github.com/Caradrian14/Cafe_Managment_Project)
+
+## Spring Boot
+- [Simple-Project](https://github.com/Caradrian14/demo-spring-boot)
 
 # PHP
 - [Lang Panel](https://github.com/Caradrian14/Lang-Panel--FP-Final-Project)
 
 # Laravel
 - [Todo](https://github.com/Caradrian14/todo-laravel)
-
-## Python
-- [Test AI Course](https://github.com/Caradrian14/Pruebas_cursoAI)
 
 ## Bash Script
 - [Training Bash](https://github.com/Caradrian14/Apuntes-Bash)
